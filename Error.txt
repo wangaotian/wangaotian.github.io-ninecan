@@ -1,0 +1,16 @@
+﻿文件下载网址  =>  文件保存路径
+data:image/svg+xml;charset=utf-8,<svg viewBox=0 0 120 120 xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink><defs><line id=l x1=60 x2=60 y1=7 y2=27 stroke=%23fff stroke-width=11 stroke-linecap=round/></defs><g><use xlink:href=%23l opacity=.27/><use xlink:href=%23l opacity=.27 transform=rotate(30 60,60  =>  D:\扒站软件\www.bjjnty.com\images\49f8c3288693453080d205f3c172d9b7.gif
+data:image/svg+xml;charset=utf-8,<svg xmlns=http://www.w3.org/2000/svg viewBox=0 0 27 44><path d=M27,22L27,22L5,44l-2.1-2.1L22.8,22L2.9,2.1L5,0L27,22L27,22z fill=%23ffffff/></svg>  =>  D:\扒站软件\www.bjjnty.com\images\889b4243e46d4e3cabb1100a944ab88c.gif
+data:image/svg+xml;charset=utf-8,<svg xmlns=http://www.w3.org/2000/svg viewBox=0 0 27 44><path d=M27,22L27,22L5,44l-2.1-2.1L22.8,22L2.9,2.1L5,0L27,22L27,22z fill=%23000000/></svg>  =>  D:\扒站软件\www.bjjnty.com\images\ee3be8d9700f4d18a35b1d042b03494e.gif
+data:image/svg+xml;charset=utf-8,<svg xmlns=http://www.w3.org/2000/svg viewBox=0 0 27 44><path d=M0,22L22,0l2.1,2.1L4.2,22l19.9,19.9L22,44L0,22L0,22L0,22z fill=%23ffffff/></svg>  =>  D:\扒站软件\www.bjjnty.com\images\fa2aaf1271e04123b5838f748d69d3a6.gif
+data:image/svg+xml;charset=utf-8,<svg xmlns=http://www.w3.org/2000/svg viewBox=0 0 27 44><path d=M0,22L22,0l2.1,2.1L4.2,22l19.9,19.9L22,44L0,22L0,22L0,22z fill=%23007aff/></svg>  =>  D:\扒站软件\www.bjjnty.com\images\d1ac5e76db744716a960cfc548a3e1b8.gif
+http://www.bjjnty.com/static/style/pc/images/n_join_ico02.png  =>  D:\扒站软件\www.bjjnty.com\images\n_join_ico02.png
+http://www.bjjnty.com/static/style/pc/images/join_dl_bg.png  =>  D:\扒站软件\www.bjjnty.com\images\join_dl_bg.png
+http://www.bjjnty.com/static/style/pc/images/container01_bg1.jpg  =>  D:\扒站软件\www.bjjnty.com\images\container01_bg1.jpg
+http://www.bjjnty.com/static/style/pc/images/search-btn2.svg  =>  D:\扒站软件\www.bjjnty.com\images\search-btn2.svg
+data:image/svg+xml;charset=utf-8,<svg viewBox=0 0 120 120 xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink><defs><line id=l x1=60 x2=60 y1=7 y2=27 stroke=%236c6c6c stroke-width=11 stroke-linecap=round/></defs><g><use xlink:href=%23l opacity=.27/><use xlink:href=%23l opacity=.27 transform=rotate(30 60,60  =>  D:\扒站软件\www.bjjnty.com\images\e411bede82784df990ecde5386964ea8.gif
+data:image/svg+xml;charset=utf-8,<svg xmlns=http://www.w3.org/2000/svg viewBox=0 0 27 44><path d=M0,22L22,0l2.1,2.1L4.2,22l19.9,19.9L22,44L0,22L0,22L0,22z fill=%23000000/></svg>  =>  D:\扒站软件\www.bjjnty.com\images\62749efbf2fb4c66a713340e52dd99ea.gif
+data:image/svg+xml;charset=utf-8,<svg xmlns=http://www.w3.org/2000/svg viewBox=0 0 27 44><path d=M27,22L27,22L5,44l-2.1-2.1L22.8,22L2.9,2.1L5,0L27,22L27,22z fill=%23007aff/></svg>  =>  D:\扒站软件\www.bjjnty.com\images\d11742de5cdd44d6a6f9f7af93264ceb.gif
+http://www.bjjnty.com/static/style/pc/images/n_join.png  =>  D:\扒站软件\www.bjjnty.com\images\n_join.png
+http://www.bjjnty.com/static/style/pc/images/n_join_ico01.png  =>  D:\扒站软件\www.bjjnty.com\images\n_join_ico01.png
+http://www.bjjnty.com/static/style/pc/images/hot-icon.png  =>  D:\扒站软件\www.bjjnty.com\images\hot-icon.png
